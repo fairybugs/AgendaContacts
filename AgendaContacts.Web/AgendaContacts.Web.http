@@ -1,0 +1,6 @@
+@AgendaContacts.Web_HostAddress = http://localhost:5161
+
+GET {{AgendaContacts.Web_HostAddress}}/AgendaContacts/
+Accept: application/json
+
+###
